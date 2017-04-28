@@ -6,7 +6,7 @@ Additionally, we waive copyright and related rights in the work worldwide throug
 
 ## Exclusions from public domain
 
-- None at this time
+- Contributors may employ third-party tools, packages, and other work not already in the public domain in the course of their projects, and this license does not change the terms of the original licenses for such work. Contributors have been asked to note those specific exclusions below, but this is only as a courtesy to subsequent users: all third-party work is subject to its original licensing regardless of inclusion or omission from this list.
 
 
 ## CC0 1.0 Universal Summary
