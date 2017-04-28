@@ -2,7 +2,7 @@
 This repository is a collection of project submissions from the Analyze Boston Open Data Challenge. If you'd like, you can add your project directly to this repo by creating a new folder for your code, adding your project to the list below, and submitting a pull request. Otherwise, we'll be adding projects to this repo after the event for sharing with the community.
 
 ## List of projects
-- _project name_
+- [_Project Name_](https://github.com/CityOfBoston/opendatachallenge/yourfoldername)
   * Submitted by: _your name(s)_
   * Description: _brief summary of what your project does_
 
