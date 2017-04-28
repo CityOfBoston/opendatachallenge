@@ -15,3 +15,5 @@ Submissions to the Open Data Challenge through this repository will be released 
 > All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
 
 By sharing your project in the public domain, you allow the entire community to benefit from your work by using and building on it however they choose, and we make all data on Analyze Boston public domain by default for the same reason. If you'd rather not share your work this way, you can host it elsewhere, but we hope you'll contribute it here for the sake of the entire Boston data community!
+
+_Please note:_ If your project incorporates existing code, packages, or tools not already in the public domain, please include in your pull request an update to [LICENSE](LICENSE.md) noting specific sources in the exclusion list.
