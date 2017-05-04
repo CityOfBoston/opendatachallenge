@@ -1,0 +1,584 @@
+Code,Description,ViolationGroup
+1,Improper storage trash: res,trash
+21a,illegal parking prop owner 1,rules
+24,Overgrown Weeds On Property,maint
+2,Improper storage trash: com,trash
+3,Overfilling of barrel/dumpster,trash
+116.2,Unsafe Structure,safety
+21b,illegal parking prop owner 2,rules
+22b,Unregistered motor vehicles- 2,rules
+40,Failure to secure a Re-Inspect,rules
+26,Non-Emergency Auto Repair,rules
+102.4,Referenced Codes & Standards,rules
+27a,Occupying City prop wo permit,rules
+22a,Unregistered motor vehicles-1,rules
+9a,Illegal dumping < 1 cubic yd,trash
+901.4,Maintenance-Sprinkler,maint
+102.8,Maintenance,maint
+7,Failure clean sidewalk com,maint
+105.1,Failure to Obtain Permit,rules
+33a,Graffiti on building- 1,vandal
+29,Illegal Vending,rules
+3-Apr,Building or Use of Premise req,rules
+27c,Occupying City prop wo permit,rules
+27b,Occupying City prop wo permit,rules
+1003.6,Means of Egress,safety
+8,Trash illegally dump container,trash
+CMR410.550 B,"Extermination of Insects, Rodents and Skunks - The owner of a dwelling containing two or more dwelling units shall maintain it and its premises free from all rodents, cockroaches and insect infestation and shall be responsible for exterminating them",maint
+CMR410.602 A,"Maint. of Areas Free from Garbage & Rubbish(Land) - The owner of any parcel of land, vacant or otherwise, shall be responsible for maintaining such parcel of land in a clean and sanitary condition.",trash
+107.4,Failed to comply w PRMT Terms,rules
+17a,Failure clear sidewalk - snow,neg
+33b,Graffiti on building- 2,vandal
+19a,Site Cleanliness license – WAR,trash
+9072.11.1,Smoke Alarms,safety
+1008.1.9,Door operations-Egress doors,safety
+104.6,Right of Entry,rules
+23a,Shopping Cart - 1,neg
+4,Maint a dumpster wopermit,trash
+Article 4 Section 4-3,No use of premises permit:,rules
+101.4.4,Maintenance,maint
+1001.3.2,Maintenance of Exterior,maint
+25,No Number On A Building,rules
+20a,Large building recycling- 1,trash
+17c,Failure clear sidewalk - snow,neg
+17b,Failure clear sidewalk - snow:,neg
+15c,Removal snow private property,neg
+15a,Removal snow private prop,neg
+16b,Removal snow non-res property,maint
+15b,Removal snow private property,neg
+905.3,Testing&Maintenance Sprinklers,safety
+121.2,Unsafe and Dangerous,safety
+1015.1,Exits,safety
+15d,Removal snow private property,maint
+16a,Removal snow non-res property,neg
+3307.1,Protection of Adj. Property,neg
+116.1,Unsafe Structure,safety
+3307,Protection of Adj. Property,neg
+44,Failure To Register,rules
+r109.4,Approval required,rules
+116.3,Unsafe Structure,safety
+907.8,Fire Protection Systems,safety
+9-9.13,Reg. Access to Roof Areas,safety
+1001.3.3,Testing & Certification,rules
+110.7,Periodic Inspections,rules
+1402.1,IEBC,safety
+R106.3.1,Approved Construction Doc.,rules
+r310.1,Emergency escape and rescue,safety
+18,Posting signs wo authority,rules
+19b,Site Cleanliness license – VIO,neg
+1020.1,Exit Passageways,safety
+9b,Illegal dumping 1-5 cubic yd.:,trash
+665,Acts 1956 as Amended,rules
+115.1,Unsafe Structure,safety
+903.5,Fire Protection Systems,safety
+Article 8 Section 76,Use of Premises,rules
+1007.1,Accessible Means of Egress,safety
+1029.3,Maximum Height from Floor,rules
+104.4,Retaining Wall,rules
+111.1,Certificate of Occupancy,rules
+1008.1.9.3,Locks and Latches,safety
+R312.2.1,Guards,safety
+Ch.143-3L,Elec work w/o per,rules
+CMR410.351 A,"Owners Installation/Maintenance Responsibility - All facilities and equipment which are required by owner including but not limited to water, gas, electrical and heating, shall be installed in accordance with all accepted codes.",maint
+CMR410.500,"Owners Responsibility to Maintain Structural Elements - Structural elements  shall be maintained free from holes, cracks, loose plaster, or other defects.",maint
+CMR410.501 A,Weathertight Windows,maint
+CMR410.503 A,Protective Railings and Walls - Safe handrail for every stairway,safety
+CMR410.551,Screens for Windows - Owner shall provide screens for all windows on the first 4 floors opening directly to the outside; shall be tight fitting; shall cover opening part of window designed to open,maint
+CMR410.552,Screens for Doors - Owner shall provide screens for all doorways opening directly to the outside from any dwelling unit or rooming unit; shall be tight fitting; equipped with self-closing device except where screen is designed to slide to the side.,neg
+CMR410.602 D,"Maint. of Areas Free from Garbage & Rubbish(Common Areas) - In any dwelling, the owner shall be responsible for maintaining in a clean and sanitary condition free of garbage, rubbish, filth all common areas.",maint
+5110.1,Failure to secure permit,rules
+1011.2,Illumination,rules
+901.2,Fire Protection & Life Safety,safety
+1008.1.4.5,Security Grilles,safety
+1006.1,Illumination,rules
+1008.1.9.1,Door Hardware,rules
+5103.1,Maintenance,maint
+1021.1.1,Exits Maintained,safety
+39a,Sign: COB Zoning Article 11-1,rules
+2.04(3),Permits,rules
+CMR410.150 A,"Sinks, Toilets, Tubs, Showers - Owner shall provide a toilet, a wash basin, bathtub or shower in another room which is not used for living, sleeping, cooking or eating; room must be fitted with a door capable of being closed",rules
+CMR410.151,"Shared Facilities - Sinks, Toilets, Tubs, showers shared by more than 1 unit or 1 rooming unit shall be cleaned and sanitized once every 24 hrs by owner.",neg
+CMR410.484,Building Identification - Owner shall to every building a # representing the address.,rules
+1008.1.8,Door Operations,rules
+102.9,Emergency Exit,safety
+907.2.8.2,Automatic Smoke Detection,safety
+107.1,Required Inspections,rules
+908.1,Testing and Maintenance,rules
+903.2,Installation,rules
+115.3,Unlawful Continuance,rules
+1029.1,Emergency Escape & Rescue,safety
+107.3.1,Approval of Documents,rules
+10.02,Basic Principles,neg
+101.4,Referenced Codes,rules
+1011,Exit Signs,safety
+107,Submittal Documents,rules
+110.27,Guarding of Live parts,safety
+314.25,Covers & Canopies,safety
+334.3,Securing & Supporting,safety
+1025.1,Emergency Escape,safety
+248 CMR 10:06,Materials (A) Min. Standards,neg
+1001.1,Means of Egress,safety
+107.6,Failure to comply with permit,rules
+115.5,Final Inspection,rules
+CRM410.550 D,"Extermination of Insects, Rodents and Skunks - Extermination shall be accomplished by eliminating the harborage places of insects and rodents.  All use of pesticides shall be in accordance with applicable laws and regulations of the Department of Food and Agricultures Pesticide Board.",maint
+CMR410.190,"Hot Water - Facilities for providing a min. temperature of hot water at 110F , max. temperature 130F",rules
+CMR410.482 A,"Smoke Detectors & Carbon Monoxide Alarms - Owner shall provide, install and maintain in operable condition smoke detectors and carbon monoxide alarms",safety
+CMR410.100 A & B,"Kitchen Facilities - Owner shall provide suitable space to store, prepare and serve foods in a sanitary manner; a kitchen sink, a stove and oven, proper facilities for the use of a refrigerator; facilities shall have smooth and impervious surfaces and be free from defects.",maint
+CRM410.550 C,"Extermination of Insects, Rodents and Skunks - The owner of a rooming house shall maintain it and its premises free from all rodent, cockroaches, and insect infestation and shall be responsible for exterminating them ",maint
+CMR410.200 A,"Heating Facilities Required - Owner shall provide & maintain in good operating condition the facilities for heating every habitable room and every room containing a toilet, shower or bathtub.",neg
+CMR410.450,Means of Egress - As many means of exit as will allow for safe passage.,safety
+CMR410.451,Egress Obstruction - No person shall obstruct any exit or passageway.,safety
+CMR410.503 C,Protective Railings and Walls - Balusters no more than 6 in. apart between required gaurdrails and open handrails.,safety
+CMR410.600 C,Storage of Garbage & Rubbish-Owner of dwelling w/ 3 units or more/rooming house shall provide as many receptacles needed for garbage as are sufficient.  before final collection and be located convenient to the occ that no objectionable odors enter any dwelling,trash
+CMR410.201,Temperature Requirements - Min. 68F between 7:00 AM and 11:00 PM; atleast 64F between 11:01 PM and 6:59 AM; Temp shall at no time exceed 78F during heating season.,neg
+Art. 15 adopts Sec. 225.52,Disconnecting Means,rules
+105.4,Exceeds terms of permit,rules
+CMR410.481,POST OWNER NAME,rules
+248 CMR,Mass State Plumbing Code,rules
+10.02 (18),Proper Maintenance,maint
+110.26,Working Space,safety
+3302,Construction Safeguards,safety
+114.2,Notice of Violation,rules
+807.1,Decorative Material,rules
+.,.,rules
+Art. 8 Sec. 7,Table A Use Item 34A,rules
+3302.1,Construction Safeguards,safety
+105.6,Suspension or Revocation,rules
+14a,Illegal dumping w a vehicle,trash
+R105.1,Failure to Secure Permit,rules
+CMR410.280 A,"Room Ventilation- window or door to exterior opened to a min of 4% of floor area of that habitable room, or room containing a toilet, bathtub or shower.",rules
+CMR410.480 A,"Door Locks-Owner, install & maintain - Every dwelling unit able to be secured against unlawful entry.",safety
+CMR410.550 A,"Extermination of Insects, Rodents and Skunks - Occupant of a dwelling containing one dwelling unit shall maintain it and its premises free from all rodents, cockroaches and insect infestation and shall be responsible for exterminating them ",maint
+CMR410.480 B & D,"Door Locks-Owner, install & maintain - Every door of dwelling/rooming unit able to be secured against unlawful entry",safety
+CMR410.150 D,"Sinks, Toilets, Tubs, Showers (Fixtures) - Shall have a smooth and impervious surface free from defects",maint
+CMR410.480 E,"Window Locks-Owner, install & maintain - ALL openable ext. window shall be capable of being secured.",maint
+CMR410.501 B,Weathertight Doors,maint
+CMR410.253 A,Light fixtures other that in Habitable rooms or kitchen - Owner shall provide electric light switches and fixtures in good working condition.,rules
+CMR410.354 C,"Metering of Electricity, Gas and Water - If Owner is not required to pay electrical and gas.  The owner must install piping and meters that serve on that unit.",rules
+CMR410.254 A,"Light in Passageways, Hallways, Stairways - Owner shall provide light 24 hrs per day",rules
+CMR410.280 A & B,"Room Ventilation - Window or door to exterior opened to a min of 4% of fl area of that habitable room, or room with toilet, bathtub or shower.",rules
+CMR410.351 B,Owners Installation/Maintenance Responsibility - All Owner-installed optional equipment,maint
+CMR410.480 C,"Door Locks-Owner, install & maintain - Main entry door of dwelling w/ 4+ units, close and lock automatically, elec. Operated striker and ass. equip.",safety
+CMR410.255,Amperage - Electric service shall supply sufficient amperage to meet the reasonable needs of the occupants.,safety
+CMR410.553,"Installation fo Screens - Owner shall provide and install screens so that they shall be in place during the period between April 1 to October 30th, both inclusive, in each year.",maint
+CMR410.350 A,"Plumbing Connections - Kitchen sink, wash basin and shower or toilet shall be connected to hot and cold water lines, and sanitary drainage system.",maint
+CMR410.252,"Bathroom Lighting & Electrical outlets - Owner shall provide in each room containing  a toilet, bathtub, or shower, 1 electric light fixture",rules
+CMR410.482 B,Smoke Detectors & Carbon Monoxide Alarms - Board of Health shall notify chief of local fire dpmt of any violations under 105 CMR 410.482,safety
+CMR410.281,No Switch for Ventiliation - Requires switch for shut-off or volume reduction.,safety
+CMR410.280 B,"Mechanical Ventilation capable of exhausting air at the following rate: Habitable room other than bath, toilet or shower room- 2 air exchanges per hour. Bath, toilet or shower- 5 air exchanges per hour.",maint
+CMR410.452,Safe Conditions - Owner shall maintain all means of egress safe and in operable condition.,safety
+CMR410.254 B,"Light in Passageways, Hallways, Stairways - Less than 3 units, Owner is responsible unless letting agreement is provided stating that dwelling unit is responsible for adjacent common area lighting;notify other occupants.",rules
+CMR410.505,Occupants Responsibility Respecting Structural Elements - Occupant shall exercise reasonable care in the use of all structural elements of the dwelling.,safety
+CMR410.352 B,Occupants Installation/Maintenance Responsibility - Occupant shall exercise reasonable care and proper use of all equipment.,maint
+CMR410.620,"Curtailment Prohibited - No Owner or occ. shall cause any service, equipment, utility which is required to be made available by 105 CMR410.000 to be removed from or shut off from any occupied dwelling, unless for temp. repairs or alterations and reasonable notice of curtailment of service is given.",rules
+CMR410.250 B,Electric outlets-Habitable Room - 2 separate wall-type outlets; or 1 outlet and 1 electric light fixture.,rules
+41,Failure of Delivery Standards,rules
+CMR410.256,Temporary Wiring - No wiring shall lie under rug or fl covering;nor extend through a doorway.,safety
+CMR410.483,Auxiliary Emergency Lightin Systems and Exit Signs - Owner of dwelling w/ 10+ units shall provide an auxiliary emergency lighting system.,safety
+CMR410.480 F,"Door Locks-Owner, install & maintain - Locking devices shall compy with rqmts. of 780 CMR 1017.4.1 to avoid entrapment in the building.",safety
+CMR410.353,"Asbestos Material - Owner shall maintain all asbestos material in good repair, free from any defects.",rules
+CMR410.180,Potable Water - Owner shall supply potable water sufficient in quantity and pressure; may not shut off or refuse service.,rules
+CMR410.750 F,Conditions Deemed to Endanger or Impair Health or Safety - Failure to provide a toilet and maintain a sewage disposal system in operable condition as required by 105 CMR 410.150(A)(1) and 410.300.,safety
+CMR410.600 A,Storage of Garbage & Rubbish - Garbage or mixed garbage and rubbish shall be stored in watertight receptacles with tight-fitting covers.  Said receptacles and covers shall be of metal or other durable rodent-proof material ,trash
+CMR410.503 B,Protective Railings and Walls - Wall or guardrail on open side of all stairways no less than 30 in. in height,safety
+3302.2,Manner of Removal,rules
+5311.4,Means of Egress,safety
+115,Stop Work Order,rules
+38,Fail to post management comp,rules
+780 CMR Appendices 120.M:,Swimming Pools,rules
+701.1,Fire and Smoke Protection,safety
+114.1,Unlawful Acts,rules
+Chapter 103.1,Unsafe Maintenance,safety
+1006.3,Means of Egress,safety
+6,disposal med waste,trash
+MGL Chapter 143 Sec 3L,Electrical Work w/out a Permit,safety
+104.4.4,Property Maintenance,maint
+R104.4,Inspections,rules
+Art. 15 Adopts Chp. 110.26,Spaces about electrical equip,safety
+Art. 15 Adopts Chp. 400.8,Flex cords/cables not permited,safety
+110.26(3)(B),Spaces about Elect. Equip.,safety
+907.2.11.2,Fire Alarm and Detection,safety
+230.2,Number of Services,rules
+R102.4.5,Unsafe Maintenance,safety
+1203.1,Ventilation,neg
+1203.4,Natural Ventilation,neg
+5119,Stop Work Order,rules
+111.3,Temporary Occupancy,rules
+110.12,Mechanical Execution of Work,neg
+210.12 B,Branch Circuit Extensions,safety
+240.4,Protection of conductors,safety
+250.32 B(1),Groundings,safety
+314.17(A),Openings,neg
+314.17.8(1),Supports,safety
+300.11A,Secured in Place,safety
+5,Transporting refuse without pe,trash
+712.3,Horozontal assemblies;Fire,safety
+713.4.1.1,Through Penedtrations,safety
+713.4.1.1.2,Fire Stop System,safety
+704.2,Fire-resistance rating,safety
+1008.1.3,Door Opening Force,safety
+110.5,Inspections,rules
+113.3,Failed to comply w PRMT terms,rules
+12.4.2,Design/construction of vent.,rules
+12.6.1.1,Metal Chimeys,safety
+1208.2,Interior Enviroment,neg
+CMR410.250 A,Natural Lighting-Habitable Room other that kitchen - Window that admits light from outdoors equal in area to no less that 8% of entire fl area in that room.,rules
+CMR410.402,Grade Level - More that 1/2 of floor to ceiling height is below average grade of adjoining ground.,rules
+CMR410.602 B,"Maint. of Areas Free from Garbage & Rubbish(Units) - Occupantof any dwelling unit shall be responsible for maintaining in a clean and sanitary condition and free of garbage, rubbish, other filth or causes of sickness that part of the dwelling which he excusively occupies or controls.",trash
+Chapter 143: Section 3L,Electrical Work w/out Permit,safety
+CMR410.504 A,"Non-Absorbent Surfaces - A non-absorbent floor surface of a bathroom, kitchen and pantry.",neg
+115.6,Right of Entry,rules
+CMR410.502,Use of Lead Paint Prohibited - No paint that contains lead shall be used.,neg
+CMR410.354 A,"Metering of Electricity, Gas and Water - Owner shall provide Electricity and Gas, or letting agreement that payment is by the occupant",rules
+304.7,Rooves and drainage,maint
+10b,Illegal dumping 1-5 cuyd.,trash
+5115.5,Right of Entry,rules
+CMR410.750 G,"Conditions Deemed to Endanger or Impair Health or Safety - Failure to provide adequate exits, or the obstruction of any exit, passageway or common area caused by any object, including garbage or trash, which prevents egress in case of an emergency 105 CMR 410.450, 410.451 and 410.452.",safety
+CMR410.750 I,"Conditions Deemed to Endanger or Impair Health or Safety - Failure to comply with any provisions of 105CMR 410.600, 410.601, 410.602 which may provide a food source or harborage for rodents, insects or other pests or otherwise contribute to accidents or to the creation or spread of disease.",safety
+CMR410.750 K,"Conditions Deemed to Endanger or Impair Health or Safety - Roof, foundation, or other structural defects that may expose the occupant or anyone else to fire, burns, shock, accident or other dangers or impairment to health or safety.",safety
+CMR410.482 C,Smoke Detectors & Carbon Monoxide Alarms - Board of Health shall not impose additional requirements if local fire dpmt found dwelling to be adequately equipped.,safety
+CMR410.200 B,"Heating Facilities - Portable space heaters, any similar heaters having a barometric fed fuel control, as well as the type of heating appliance adapted for burning kerosene, shall not be used and shall not meet the requirements.",safety
+Art. 15 Adopts Chp. 110.1 2[c],Work without permit,rules
+CMR410.600 D,"Storage of Garbage & Rubbish - The occupants of each dwelling, dwelling unit, and rooming unit shall be responsible for the proper placement of his garbage and rubbish in the receptacles required in 105 CMR 410.600C",trash
+248CMR 3.05b,Requirements.,rules
+248CMR 5.04 4.4,Workmanship,neg
+107.2.5,Site Plan,rules
+CMR410.300,Drainage System - Owner shall provide a sanitary drainage system connected to the public sewerage system.,rules
+110.3.11,Workmanship,neg
+110.1,Inspections,rules
+115.2,Failure to call for req Insp.,rules
+106.5,Certificate of Inspection,rules
+CMR410.352 A,"Occupants Installation/Maintenance Responsibility - Occupant shall install in accordance with all acceptable codes plumbing, gas fitting and electrical; and maintain",neg
+3603.16.10,Smoke Detectors,safety
+111.12,Revocation of Certificate,rules
+111.4,Revocation of CoO,rules
+713.3,Fire Resistance; Rated Walls,safety
+1006,Means of Egress Illumination,safety
+1014.2(3),Exit Access,safety
+110,Application for Permit,rules
+110.11,Deteriorating Agents,safety
+110.14,Electrical Connections,safety
+400.8,Uses not permitted,rules
+420.2,Seperation Walls,safety
+115(IEBC),Unsafe bldg&equip.,safety
+901.7.2,Maintenance,maint
+23b,Shopping Cart - 2,neg
+CMR410.251 A & B,Electrical outlets/Light Fixture-kitchen - 1  electric light fixture; and 2 wall-type outlets located in convenient locations.,rules
+CMR410.600 B,"Storage of Garbage & Rubbish - Plastic bags shall be used to store garbage or mixed garbage or rubbish only, if used as a liner in watertight receptacles with tight-fitting covers as required in Regulation 410.600A",trash
+CMR410.602 C,"Maint. of Areas Free from Garbage & Rubbish - Dwelling that contains 3 units or less, occ shall be responsible for maintaining in a clean & sanitary condition, free of garbage & filth the stairways leading/landing adjacent to his unit if.",trash
+1003.3.4,Clear Width,safety
+1021.3,Exit Continuity,safety
+116.4,Failure to remove or make,neg
+Art. 17 Section 2.04 (3) ,Permits,rules
+Art 511,Improper Electrical Repair,safety
+R115.1,Unsafe & Dangerous,safety
+CMR410.504 B & C,Non-Absorbent Surfaces - A non-absorbent wall surface of a bathroom up to 4 ft; shower compartment no less than 6 ft.,rules
+CMR410.750 J,Conditions Deemed to Endanger or Impair Health or Safety - The presence of leadbased paint on a dwelling or dwelling unit in violation of 105 CMR 460.000: Lead Poisoning Prevention and Control.,safety
+101.5,Specialized codes,rules
+CMR410.750 A,"Conditions Deemed to Endanger or Impair Health or Safety - Failure to provide a supply of water sufficient in quantity, pressure and temperature, both hot and cold, to meet the ordinary needs of the occupant in accordance with 105 CMR 410.180 and 410.190 for a period of 24 hours or longer.",safety
+1029.4,Operational Constraints,rules
+9c,Illegal dumping 5+ cubic yd,trash
+CMR410.350 B,Plumbing Connections - Toilet shall be connected to water distribution system and  sanitary drainage system.,rules
+CMR410.601 A,"Collection of Garbage & Rubbish - Owner of any dwelling that contains 3 or more dwelling units, rooming house, and the occ. of any other unit shall be responsible for the final collection or ultimate disposal or incineration of garbage and rubbish by means of regular municipal Collection Sys.",trash
+CMR410.851,Hearing Notice,rules
+CMR410.501C,"Weathertight Structual Elements - Exterior/interior, walls, floors, ceilings, cracks and spaces are caulked and filled to prevent infiltration of exterior air or moisture.",maint
+CMR410.820,Inspection Upon Request,rules
+1021.1,Minimum Number of Exits,safety
+3109.2,Any structure for swimming,rules
+348.3,Flexible Metal Conduit,rules
+r116.2,Unsafe and Dangerous,safety
+Ch.16-26.4,Reg. of Construction Hour,rules
+230.7,Disconnecting Means Service,rules
+CMR410.750 B,Conditions Deemed to Endanger or Impair Health or Safety - Failure to provide heat as required by 105 CMR 410.201 or improper venting or use of a space heater or water heater as prohibited by 105 CMR 410.200(B) and 410.202,safety
+CMR410.750 C,"Conditions Deemed to Endanger or Impair Health or Safety - Shutoff and/or failure to restore electricity, gas or water.",safety
+CMR410.750 D,"Conditions Deemed to Endanger or Impair Health or Safety - Failure to provide the electrical facilities required by 105 CMR 410.250(B), 410.251(A), 410.253 and the lighting in common area required by 105 CMR 410.254.",safety
+230.54,Electrical Service Conduit,rules
+R110.1,Occupancy,rules
+709,Fire Walls,safety
+501.2,International Mechanical Code,rules
+Article 248 CMR:,Permits to perform gas fitting,rules
+107.2.1,Information on Documentation,rules
+521 CMR 3.5,Work Performed Over Time,rules
+"780 CMR , Chapter 27",Mass. State Electrical Code,safety
+1027.6,Access to Public Way,rules
+CMR410.355,Provisions of Oil - Owner shall provide oil for heating/hot water unless a seperate tank serves that unit.,rules
+37,Maintain vacant/foreclose prop,maint
+804.3,Testing an Identification,rules
+1106.3,Illumination,rules
+906.2,Portable fire extinguishers,safety
+108.1.3,Unfit for Human Occupancy,rules
+110.12(C),Elec. Equip. & Connections,safety
+300.11,Securing and Supporting,safety
+312.5(A),Openings to be closed.,neg
+760.24A,Mechanical Execution of Work,neg
+240.24E,Not Located in Bathrooms,rules
+1001.3,Egress Maintenance,maint
+300.15,"Boxes, Where Required",safety
+903.6,Automatic Sprinkler System,safety
+CMR410.401 A,Ceiling Height - Room not considered habitable if more than 3/4 of floor to Ceiling height is less than 7 ft.,rules
+42,Vacant Property (Ch 111-122),rules
+20b,Large building recycling - 2,trash
+CMR410.750 L,"Conditions Deemed to Endanger or Impair Health or Safety - Failure to install electrical, plumbing, heating and gasburning facilities in accordance with accepted standards or failure to maintain such facilities as are required by 105CMR 410.351 & 410.352.",safety
+CMR410.750 N,Conditions Deemed to Endanger or Impair Health or Safety - Failure to provide a smoke detector or carbon monoxide alarm required by 105 CMR 410.482.,safety
+Art. 248 CMR,Permits to perform gas fitting,rules
+R5121,Unsafe and Dangerous,safety
+1022.1,Exit Enclosures,safety
+CMR410.253 B,Light fixtures other that in Habitable rooms or kitchen - Owner shall provide working incandescent light bulbs or fluorescent tubes in all required light fixtures in all common areas.,rules
+307,Hazard Materials,safety
+10a,Illegal dumping park,trash
+CMR410.354 E,"Metering of Electricity, Gas and Water -Occupant Shall have access to any water submetering to ensure it is functioning properly.",rules
+901.3,Modification fire protection,safety
+110.13(A),Mounting & Cooling Equipment,neg
+1208.3,Room Area,rules
+5311.4.1,Egress,safety
+CMR410.400 B,"Minimum square footage (Sleeping) -Room for sleeping, at least 70 sq. ft. of fl space; if more than 1 occ. at least 50 sq. ft.",rules
+12,Illegal dumping Const debris,trash
+110.26(A),Space About Electrical Service,safety
+230.23(A),Service Size & Rating,rules
+314.28(A),Pull & Junction Box,rules
+CMR410.354 B,"Metering of Electricity, Gas and Water - If required by owner, Electrical or Gas maybe be metered through meters serving multiple units.",rules
+521 CMR Sec 24,Ramps,rules
+43,Board Up Property (Ch 139-3A),rules
+CMR410.831,Dwellings Unfit for Human Habitation; Hearing; Condemnation; Order to Vacate; Demolition,neg
+R311.1,Means of Egress,safety
+248 CMR Sec 10.02,Principle #18,rules
+5113.3,Compliance with Permit,rules
+34,Littering,trash
+3303.2,Pedestrian Protection,safety
+3306.1,Protection of Adj. Property,neg
+3306.2,Walkways,rules
+110.26(3),Personal Doors,rules
+110.12b,Integrity of elec. equipment,safety
+334.12,Uses not Permitted,rules
+Chapter 143 Sec L,Working Without a Permit,rules
+Chapter 143 MGL, Mass. State Plumbing Code,rules
+102.2,Other Laws,rules
+R105.6,Suspension or Revocation,rules
+r109.3,Failure to call Inspections,rules
+R114.2,Unlawful Continuance,rules
+Article 9 Section 9-1A,"Hours operation, nonconforming",rules
+314.23(2),Support Wires,safety
+334.15(B),Type NM Cable,rules
+107.7,Wiring Integrity,safety
+110.12(A),Unused openings,neg
+110.12(B),Integrity of Elec. Equip.,safety
+110.9,Interrupting Rating,safety
+1009.11,Hand Rails,safety
+104.2,Applications & Permits,rules
+Chapter 141,Supervision of Electricians,rules
+907.2.9,Fire  & Smoke Alarm Systems,safety
+9-3.2,Street Numbers,rules
+105.5,Expiration,rules
+1023.4,Exit passageways,safety
+121,Unsafe Structure,safety
+110.3,Required Inspections,rules
+102.2.2,Municipal Bylaws or Ordinances,rules
+114.3,Enforcement,rules
+110.18,Arcing Parts,safety
+6.2.5,Prohibited Locations,rules
+"Article 65,sect 65-3961",Abutting a public street,rules
+5.3.1,I.S.S.U,rules
+110.27(A),Guarding of Live Ports,safety
+1020,Exits,safety
+415.8.5.22,Liquid Storage Rooms,rules
+760.24B,Circuit Intensity,safety
+IMC Sec 507.2,Commercial Kitchen Hoods,neg
+230.3,Meter Tapping,rules
+2.6,Maintenance Access Features,maint
+110.8,Wiring Methods,safety
+1018.3,Corridor Obstruction,safety
+105,Permits,rules
+907.6.5,Monitoring Fire Alarm Systems,safety
+10c,Illegal dumping 5 cubic yd.,trash
+906,Portable Fire Extinguishers,safety
+1008.1,Means of egress doors,safety
+720.5,Fire Separation Assemblies,safety
+5121.1,Unsafe & Dangerous,safety
+"Article 85,sect.4-2",City Zoning Code,rules
+1008.3,Means of egress;Turnstiles,safety
+30c,Crying out wares - 3,safety
+1012.1,Handrails/safety,safety
+Art. 15 Adopts Chp. 110.27 ,Electrical equipment integrity,safety
+Art. 334.12,Uses Not Permitted,neg
+Art.334.15,Exposed work,safety
+1607,Live loads(roof),safety
+1807.3,Imbedded posts&poles,rules
+907.19,Fire Alarm Systems,safety
+315.1,Carbon monoxide alarms,safety
+705.4,Fire Wall/Fire Resistance,safety
+5111.1,Failure to Secure Permit,rules
+r106.4,Amended Constuction documanets,rules
+248CMR10.10(12)(B)1,Waste Water,rules
+39b,Sign: Zoning Code Art 11-2&sub,rules
+907.2.1.2,Fire Alarm Ent. Response,safety
+r105.8.1,Workmanship,neg
+1001.2,Minimum Requirements,rules
+230.79,Size and Rating,rules
+116.7,Wiring Integrity,safety
+120.1,Illegally occupied prior to CO,rules
+121.1,Unsafe and Dangerous,safety
+R314.3,Smoke alarm locations,safety
+210.8(A)(G),No GFCI in Kithen,rules
+604.1 IEBC,General Repairs,maint
+AG105.2,Pool barrier,safety
+R114,STOP WORK ORDER,rules
+116,Unsafe Structures,safety
+240.2,Ungrounded Conducters,safety
+230.27,Means of Attachment,rules
+107.2,Construction Documents,rules
+1003.4,Floor Surface,rules
+1009.12,Handrails,rules
+808.1.1.2,Acoustical Ceiling Systems,rules
+300,Securing and supporting,safety
+315.5A,Openings to be closed,safety
+R104.6,Right of Entry,rules
+113.2,Failure to Comply w Bldg Code,rules
+5105.1,Failure to Secure Permit,rules
+110.3a,"Examination,identify,install",rules
+28,Illegal vending: fruit,rules
+3306,Protection of Pedestrians,safety
+Art. 230.24,Clearance,safety
+108.2,Locks and Latches (Gate),safety
+310.2,Maintenance of Facilities,maint
+590.2,Temporary Wiring Methods,safety
+R109.1,Failure to secure inspections,rules
+1014.2,Egress thru Intervening Spaces,safety
+3400.5,Hazrdous Means of Egress,safety
+5121,Unsafe Structures,safety
+105.1.1,Certificate of Inspection,rules
+1015.2.1,2 Means of Egress Required,safety
+527 CMR 12:00,Rule 10,rules
+310.15.3,Wiring,safety
+R105,Permits,rules
+Art. 11 Sec. 2-F,On Premise Signs,rules
+225.19,Horizontal Clearances,rules
+MGL Chapter 141,Electrical Work w/out Permit,rules
+R310,Emergency Escape,safety
+162.2,Unsafe Structures,safety
+1017.1,Corridors,rules
+Article 9 Section 9-3,Effect of Non-Conforming Use,rules
+2801.2.1,Mechanical Code,rules
+408.7,Unused Openings,neg
+3109.4.1.7,Gates,safety
+R114.1,Unsafe Structures,safety
+5121.2,Unsafe & Dangerous,safety
+709.4,Continuity,rules
+708.14.1,Elevator Lobbies,rules
+110.12 (c),Integrity of,safety
+312.5 (A),Openings to be closed,neg
+1009.2,Means of Egress; Headroom,safety
+210.25 A,Dwelling unit branch circuits.,rules
+210.25 B,Common area branch circuits,rules
+14b,Illegal dumping  vehicle:,trash
+10,Means of Egress,safety
+314.28,Pull & Junction Boxes,safety
+780 CMR; 110.7,Wiring Intensity,safety
+386.1,"Installation, uses permitted",rules
+386.12,Uses not permitted,rules
+1013.1,Guards Where Required,safety
+119.1,Stop Work Order,rules
+3303.5,Water Accumulation,rules
+780 CMR 110.7,Periodic Inspections,rules
+250.6 (A) (B) (1)(2)(3),Objectionable Current,safety
+907.211.1,Smoke Alarms,safety
+314.15,Damp or Wet Locations,neg
+5111.12,Revocation of Permits,rules
+5120,Certificate of Occupancy,rules
+5301.1,Design,rules
+106.1,Unsafe Building & Structures,safety
+30a,Crying out wares- 1,neg
+CMR 110.7,Periodic Inspections,rules
+1606.2,Dead Load,rules
+527 CMR 12.00,2011 Mass Elec. Code Rule 1,safety
+R115,Unsafe & Dangerous,safety
+111,Certificate of Occupancy,rules
+904,Maintenance/Fire Protection,safety
+903,Maintenance/Fire Protection,safety
+Art. 300.15,Boxes Where Required,safety
+Art. 110.13(a),Mounting Elec. Equipment,safety
+Art. 2A.1,Boston Zoning Code,rules
+13,Illegal dumping: Haz Waste,trash
+314,Smoke Alarms,safety
+1008.1.9.4,Bolt Locks,safety
+5113.2,Failure to Comply w. Code,rules
+1203.4.2.1,Bathrooms,rules
+"780 CMR, Chapter 27",Illegal Temporary Wiring,safety
+2801,Mechanical,neg
+907.2.10,Smoke Detectors,safety
+Section 11.2(c),Signage,rules
+3306.8,Repair,neg
+5313.2.7,Fire Warning Systems,safety
+915,Carbon Monoxide Protection,safety
+108.7,Unsafe Mechanical Equipment,safety
+110.16,Arc-Flash Hazard Warning,safety
+314.72,Boxes Construct & Install,safety
+1028.1,Fire Escape Affidavit,rules
+5103,Maintenance,maint
+Art. 215.3,Overcurrent Protection,safety
+907.2.112,Fire Alarm & Detection,safety
+110.3.8,Other Inspections,rules
+1001.3.1,Obstructions,safety
+Art. 665 Sec. 19-1,Side Yard Requirements,rules
+5311.2.1,Attachment,rules
+250.24 D,Grounding electrode conduction,safety
+33.02,Construction Safeguards,safety
+400.7,Excessive Use of Ext. Cords,safety
+5112.1,Unsafe & Dangerous,safety
+121.3,Removal/Making Structure Safe,safety
+111.11,Use & Occupancy,rules
+103.2,Unsafe Maintanence,safety
+103,Maintenance,maint
+107.2.4,Exterior Wall Envelope,rules
+314.41,Covers,rules
+110 R5.2.7,False Statements,rules
+110 R5.2.12,On-Site Presence of Supervisor,rules
+118.4,Violation penalties,rules
+1018.1,Egress,safety
+121.5,Rem Dangerous/Abandoned Struct,safety
+352.3,Securing and Supporting,safety
+108.3.5.3,Licensed Supervisor,neg
+708.4,Fire Partitions,safety
+1028.3,Testing & Certification,rules
+5120.1,Building Illegally Occupied,rules
+102.5.5,Hazardous Means of Egress,safety
+1203,Ventilation,neg
+110.26(B),Electrical Rm Used for Storage,safety
+5117.1,Workmanship,neg
+118.1,Unlawful Acts,rules
+240.24(A),Elevated Electrical Room,neg
+1023.6,Access to a Publicway,rules
+120,Certificate of Occupancy,rules
+907.16,Acceptance Tests,rules
+119,Stop Work Order,rules
+5311.4.4,Door Locks,safety
+119.2,Unlawful Continuance,rules
+32,Abusive Language In Solicitati,rules
+Article 8-7,Outdoor Sale & Display,rules
+710.6,Penetrations & Joints,safety
+121.4,Remove/Making Safe Structure,safety
+Art. 67-11,Outdoor Sale & Display,rules
+820.2,Abandoned Cable,neg
+5313.4,Carbon Monoxide Detectors,safety
+5313.2.9,Smoke Detectors,safety
+123,Unsafe and Dangerous,safety
+Art. 15 Adopts Chp. 143.S 3L,Guarding of live parts,safety
+110.26E,Spaces About Elect. Equip.,safety
+123.1,Unsafe and Dangerous,safety
+5110,Application for permit,rules
+120.2,Buildings hereafter altered,rules
+230.26,Point of Attachment,rules
+6106.2.2,Basements,rules
+Art. 110.11,Deteriorating Agents,neg
+11,Illegal dumping solid waste,trash
+5102.5.1,Emergency Escape & Rescue,safety
+230.9,Clearance on Buildings,rules
+5311.6.2,Landings Required,rules
+5117,Workmanship,neg
+5110.6,Permit Secured by Owner,rules
+5116.1,Services During Construction,rules
+5310,Emergency Escape and Rescue Op,safety
+113,Compliance with Permit,rules
+3603.6.8.2,Fences,rules
+1023.1,Exit Signs & Lights,safety
+31,Use of propelled novelty,safety
+36,Illegal Dumping (vehicle),trash
