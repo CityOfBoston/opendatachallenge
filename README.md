@@ -4,8 +4,20 @@ This repository is a collection of project submissions from the Analyze Boston O
 ## List of projects
 - [Boston Garbage Atlas: 2014](http://garbage-milleria.rhcloud.com/)
   * Submitted by: C.C. Miller
-  * Description: _brief summary of what your project does_
+  * Description: Big Belly Alerts are mapped spatially and temporally corresponding to four select Boston events.
   * [Code on Github](https://github.com/cecois/garbage)
+- [Fire Proof Boston Housing](http://rpubs.com/jonjay/FPBH_JJ)
+  * Submitted by: John Jay
+  * Description: I analyze patterns of fire risk in Boston Housing according to housing type, neighborhood, prior citizen complaints, and other parcel-level variables.
+  * [Code on Github](https://github.com/JonJayHub/Fire-Proof)
+- [Modeling Building Fire Risk Across the City](https://github.com/CityOfBoston/opendatachallenge/tree/master/mckenna_modeling-building-fire-risk)
+  * Submitted by: Sean McKenna
+  * Description: This submission is intended to be a proof-of-concept that looks to develop a machine-learned model based on recent historical data from Inspectional Services Department violations, Assessing Department building/property data, and incident reports from the Boston Fire Department to provide measures of fire risk for addresses across the City.  Results from the model's performance are encouraging, and indicate that it could significantly improve the City's efforts to avert fire incidents before they happen.
+  * [Code on Github](https://github.com/CityOfBoston/opendatachallenge/tree/master/mckenna_modeling-building-fire-risk)
+- [Where There's Smoke...](https://github.com/CityOfBoston/opendatachallenge/tree/master/xu_where-theres-smoke)
+  * Submitted by: Wenfei Xu
+  * Description: This classification project uses 311, CEP violations, and building characteristics data from tax parcels in Boston to build a predictive model for fire incidents in the city.  I try a model that uses fire incidents, along with 311 incidents and CEP violations from previous years, to predict fires in 2017 (in the 3 months for which we have data).
+  * [Code on Github](https://github.com/CityOfBoston/opendatachallenge/tree/master/xu_where-theres-smoke)
 
 ## Public domain licensing
 
